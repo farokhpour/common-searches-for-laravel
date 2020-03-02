@@ -1,0 +1,4 @@
+#Login with another user 
+Auth::loginById(id);
+use this in a controller.if request controller you will login with given user id.
+___________________________________________________________________________________
