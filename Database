@@ -1,0 +1,4 @@
+#update a field with eloquent
+$flight = App\Flight::find(1);
+$flight->name = 'New Flight Name';
+$flight->save();
