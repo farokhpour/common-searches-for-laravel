@@ -1,0 +1,3 @@
+#get url parametes
+use request helper method
+request()->route()->parameter(param_name);
